@@ -1,0 +1,890 @@
+[
+    {
+        "id": "2023-12-06 02:09:03.504235",
+        "timestamp": "2023-12-06T02:09:03.504278",
+        "aggregated_data": {
+            "hum": {
+                "total": 313.5,
+                "count": 5,
+                "min": 51.5,
+                "max": 70,
+                "average": 62.7
+            },
+            "gas": {
+                "total": 6300,
+                "count": 6,
+                "min": 1000,
+                "max": 1100,
+                "average": 1050
+            },
+            "pms2.5": {
+                "total": 755,
+                "count": 7,
+                "min": 105,
+                "max": 110,
+                "average": 107.85714285714286
+            },
+            "pre": {
+                "total": 522844,
+                "count": 6,
+                "min": 86494,
+                "max": 87494,
+                "average": 87140.66666666667
+            },
+            "temp": {
+                "total": 33,
+                "count": 3,
+                "min": 11,
+                "max": 11,
+                "average": 11
+            }
+        },
+        "_rid": "CV5YAIZVw2YCAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YCAAAAAAAAAA==/",
+        "_etag": "\"00009e16-0000-2000-0000-656fd7c00000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701828544
+    },
+    {
+        "id": "2023-12-06 02:20:25.640512",
+        "timestamp": "2023-12-06T02:20:25.640551",
+        "aggregated_data": {
+            "pms2.5": {
+                "total": 650,
+                "count": 6,
+                "min": 105,
+                "max": 110,
+                "average": 108.33333333333333
+            },
+            "gas": {
+                "total": 5300,
+                "count": 5,
+                "min": 1000,
+                "max": 1100,
+                "average": 1060
+            },
+            "hum": {
+                "total": 364,
+                "count": 6,
+                "min": 51.1,
+                "max": 70,
+                "average": 60.666666666666664
+            },
+            "pre": {
+                "total": 522844,
+                "count": 6,
+                "min": 86494,
+                "max": 87494,
+                "average": 87140.66666666667
+            },
+            "temp": {
+                "total": 33,
+                "count": 3,
+                "min": 11,
+                "max": 11,
+                "average": 11
+            }
+        },
+        "_rid": "CV5YAIZVw2YDAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YDAAAAAAAAAA==/",
+        "_etag": "\"0000a016-0000-2000-0000-656fda6a0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701829226
+    },
+    {
+        "id": "2023-12-06 02:30:03.146784",
+        "timestamp": "2023-12-06T02:30:03.146823",
+        "aggregated_data": {
+            "hum": {
+                "total": 875.6,
+                "count": 14,
+                "min": 50.4,
+                "max": 70,
+                "average": 62.542857142857144
+            },
+            "temp": {
+                "total": 100,
+                "count": 9,
+                "min": 11,
+                "max": 12,
+                "average": 11.11111111111111
+            },
+            "pre": {
+                "total": 785966,
+                "count": 9,
+                "min": 86494,
+                "max": 87434,
+                "average": 87329.55555555556
+            },
+            "gas": {
+                "total": 8000,
+                "count": 8,
+                "min": 1000,
+                "max": 1000,
+                "average": 1000
+            },
+            "pms1.0": {
+                "total": 616,
+                "count": 8,
+                "min": 77,
+                "max": 77,
+                "average": 77
+            },
+            "pms2.5": {
+                "total": 840,
+                "count": 8,
+                "min": 105,
+                "max": 105,
+                "average": 105
+            },
+            "pms10.0": {
+                "total": 1240,
+                "count": 8,
+                "min": 155,
+                "max": 155,
+                "average": 155
+            }
+        },
+        "_rid": "CV5YAIZVw2YEAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YEAAAAAAAAAA==/",
+        "_etag": "\"0000a216-0000-2000-0000-656fdcaf0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701829807
+    },
+    {
+        "id": "2023-12-06 03:14:14.498112",
+        "timestamp": "2023-12-06T03:14:14.498186",
+        "aggregated_data": {
+            "temp": {
+                "average": 12,
+                "min": 12,
+                "max": 12
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YFAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YFAAAAAAAAAA==/",
+        "_etag": "\"0000a816-0000-2000-0000-656fe7070000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701832455
+    },
+    {
+        "id": "2023-12-06 03:24:11.628381",
+        "timestamp": "2023-12-06T03:24:11.628453",
+        "aggregated_data": {
+            "temp": {
+                "average": 12,
+                "min": 12,
+                "max": 12
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YGAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YGAAAAAAAAAA==/",
+        "_etag": "\"0000a916-0000-2000-0000-656fe95c0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833052
+    },
+    {
+        "id": "2023-12-06 03:25:12.266685",
+        "timestamp": "2023-12-06T03:25:12.269126",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.125,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YHAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YHAAAAAAAAAA==/",
+        "_etag": "\"0000aa16-0000-2000-0000-656fe9990000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833113
+    },
+    {
+        "id": "2023-12-06 03:25:41.082452",
+        "timestamp": "2023-12-06T03:25:41.082492",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.125,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YIAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YIAAAAAAAAAA==/",
+        "_etag": "\"0000ab16-0000-2000-0000-656fe9b50000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833141
+    },
+    {
+        "id": "2023-12-06 03:27:44.942669",
+        "timestamp": "2023-12-06T03:27:44.942708",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.321428571428571,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YJAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YJAAAAAAAAAA==/",
+        "_etag": "\"0000ad16-0000-2000-0000-656fea310000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833265
+    },
+    {
+        "id": "2023-12-06 03:29:54.480780",
+        "timestamp": "2023-12-06T03:29:54.480818",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.321428571428571,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YKAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YKAAAAAAAAAA==/",
+        "_etag": "\"0000ae16-0000-2000-0000-656feab30000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833395
+    },
+    {
+        "id": "2023-12-06 03:30:03.566604",
+        "timestamp": "2023-12-06T03:30:03.566645",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.321428571428571,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YLAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YLAAAAAAAAAA==/",
+        "_etag": "\"0000af16-0000-2000-0000-656feabc0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833404
+    },
+    {
+        "id": "2023-12-06 03:36:33.327725",
+        "timestamp": "2023-12-06T03:36:33.327766",
+        "aggregated_data": {
+            "temp": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YMAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YMAAAAAAAAAA==/",
+        "_etag": "\"0000b016-0000-2000-0000-656fec420000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833794
+    },
+    {
+        "id": "2023-12-06 03:36:59.607315",
+        "timestamp": "2023-12-06T03:36:59.607355",
+        "aggregated_data": {
+            "temp": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YNAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YNAAAAAAAAAA==/",
+        "_etag": "\"0000b116-0000-2000-0000-656fec5c0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833820
+    },
+    {
+        "id": "2023-12-06 03:37:17.360294",
+        "timestamp": "2023-12-06T03:37:17.360333",
+        "aggregated_data": {
+            "temp": {
+                "average": 1.814516129032258,
+                "min": 0,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YOAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YOAAAAAAAAAA==/",
+        "_etag": "\"0000b216-0000-2000-0000-656fec6e0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833838
+    },
+    {
+        "id": "2023-12-06 03:37:39.725676",
+        "timestamp": "2023-12-06T03:37:39.725716",
+        "aggregated_data": {
+            "temp": {
+                "average": 1.814516129032258,
+                "min": 0,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YPAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YPAAAAAAAAAA==/",
+        "_etag": "\"0000b316-0000-2000-0000-656fec840000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833860
+    },
+    {
+        "id": "2023-12-06 03:37:57.714144",
+        "timestamp": "2023-12-06T03:37:57.714281",
+        "aggregated_data": {
+            "temp": {
+                "average": 1.814516129032258,
+                "min": 0,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YQAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YQAAAAAAAAAA==/",
+        "_etag": "\"0000b416-0000-2000-0000-656fec960000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833878
+    },
+    {
+        "id": "2023-12-06 03:39:34.780341",
+        "timestamp": "2023-12-06T03:39:34.780380",
+        "aggregated_data": {
+            "temp": {
+                "average": 1.814516129032258,
+                "min": 0,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YRAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YRAAAAAAAAAA==/",
+        "_etag": "\"0000b516-0000-2000-0000-656fecf70000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701833975
+    },
+    {
+        "id": "2023-12-06 03:40:33.694898",
+        "timestamp": "2023-12-06T03:40:33.694955",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.5,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YSAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YSAAAAAAAAAA==/",
+        "_etag": "\"0000b716-0000-2000-0000-656fed320000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701834034
+    },
+    {
+        "id": "2023-12-06 03:43:09.002240",
+        "timestamp": "2023-12-06T03:43:09.003478",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.5,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YTAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YTAAAAAAAAAA==/",
+        "_etag": "\"0000b816-0000-2000-0000-656fedcd0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701834189
+    },
+    {
+        "id": "2023-12-06 03:43:14.895140",
+        "timestamp": "2023-12-06T03:43:14.897867",
+        "aggregated_data": {
+            "temp": {
+                "average": 12.5,
+                "min": 12,
+                "max": 13.5
+            },
+            "hum": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pre": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "gas": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms1.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms2.5": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            },
+            "pms10.0": {
+                "average": 0,
+                "min": 0,
+                "max": 0
+            }
+        },
+        "_rid": "CV5YAIZVw2YUAAAAAAAAAA==",
+        "_self": "dbs/CV5YAA==/colls/CV5YAIZVw2Y=/docs/CV5YAIZVw2YUAAAAAAAAAA==/",
+        "_etag": "\"0000b916-0000-2000-0000-656fedd30000\"",
+        "_attachments": "attachments/",
+        "_ts": 1701834195
+    }
+]
