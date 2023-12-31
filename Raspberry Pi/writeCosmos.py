@@ -6,8 +6,8 @@ import json
 mongo_client = MongoClient('mongodb://gHospitalAdmin:gHospitalAdmin@192.168.10.99:27017/')
 mongo_collection = mongo_client.get_database("greenHospital").get_collection("sensorReadings")
 
-cosmos_uri = "https://green-hospital.documents.azure.com:443/"
-cosmos_key = "O4gyma4r8Aeddf0tPzyLgExo4liLidRsHsKvcN40KDrqhmGRwOg8Re8nUGzUsHBQTu8Q0R2DPi94ACDbmkCiRQ=="
+cosmos_uri = ""   #Add cosmos URI
+cosmos_key = ""   #Add cosmos Key
 cosmos_client = CosmosClient(cosmos_uri, cosmos_key)
 cosmos_db = cosmos_client.get_database_client("hospital-Birmingham")
 cosmos_container = cosmos_db.get_container_client("sensorReadings")
